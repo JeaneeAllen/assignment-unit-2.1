@@ -25,8 +25,8 @@ console.log (introduction)
 
 // 6 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 //     Console log the value of `adventurous`
-let Adventures = false
-console.log (Adventures)
+let adventurous = false
+console.log (adventurous)
 
 // 7 - Create a variable named `food`, and set its value to a string of your favorite food
 //     Console log the value of `food`
